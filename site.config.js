@@ -8,12 +8,12 @@ module.exports = {
 
   // basic site info (required)
   name: 'Jucga',
-  domain: 'https://www.notion.so/jucga/My-Web-cdf57796115a4fd5a48d1c036156cb94',
+  domain: 'jucga.cn',
   author: 'Jucga',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: 'jucga blog',
+  socialImageTitle: 'jucga blog',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
